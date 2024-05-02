@@ -18,7 +18,15 @@ Uyingizdan chiqmay turib har hil bazimlar uchun gullar buyurtma qilaolish imkoni
         }
  ```
  ## Run to gif
+ ### Inter command 1 Displey flower
 ![](/Assets/code-run3.gif)
-## Introduction
-![](/Assets/photo_2024-05-02_10-30-58.jpg)
-
+## Enter displey 2 one flower
+![](/Assets/code-run4.gif)
+## Enter comman 3 Remove one flower delete flower
+![](/Assets/code-run5.gif)
+## Enter command 4 Modify one flower
+![](/Assets/code-run6.gif)
+## Enter comman 5 Create one flower Add flower
+![](/Assets/code-run7.gif)
+## Enter last comman exit
+![](/Assets/code-run8.gif)
