@@ -3,7 +3,7 @@
 Bu proyekt onlayn gul sotib olish va yetkazib berish xizmatlarini taklif qiladi.
 
 ## Dasturning qulaylik taraflari 
-Uyingizdan chiqmay turib har hil bazimlar uchun gullar buyurtma qilaolish imkoniyatlarini beradi
+Uyingizdan chiqmay turib har hil bazimlar uchun gullar buyurtma qilaolish imkoniyatlarini beradi.
 ## Code to main
 ``` c#
         private static void PrintMenu()
